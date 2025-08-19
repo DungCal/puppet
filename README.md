@@ -4,4 +4,4 @@ This mobile vehicle used ROS2, slam-toolbox and nav2 to move, rviz2 to visualize
 
 This is the design of the robot
 
-![Mô tả ảnh](images/Screenshot from 2025-08-19 16-28-35.png)
+![Mô tả ảnh](images/puppet_design.png)
